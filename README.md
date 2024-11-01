@@ -16,7 +16,7 @@
     <!-- First Video -->
     <div>
         <h2>Fort Morgan</h2>
-        <iframe width="700px" height="315" src="https://www.youtube.com/embed/l2em7gqBj00" 
+        <iframe width="700px" height="315px" src="https://www.youtube.com/embed/l2em7gqBj00" 
                 title="YouTube video player" frameborder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                 allowfullscreen></iframe>
